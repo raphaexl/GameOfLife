@@ -1,0 +1,11 @@
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.exe
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.json
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\MARBG_VRIA01\Documents\Programmera\C£#\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
